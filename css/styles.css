@@ -25,14 +25,14 @@ a:hover {
 }
 
 .wrapper{
-    width 80%;
+    width:80%;
     margin: 0 auto;
     padding-right:0.5rem;
 }
 header{
     display:flex;
     flexflow: row nowrap;
-    justify-content:space-between; //space betwen the boxes
+    justify-content:space-between; /*space betwen the boxes*/
 }
 
 .leftheader { 
